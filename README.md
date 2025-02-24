@@ -29,12 +29,16 @@ Spring Framework (pour l'injection de dépendances)
    git clone https://github.com/Hajarfallaki/dependency-injection-part1.git
    cd dependency-injection-part1
 
- 2. Compiler le projet :
 
- mvn clean install
+ 2. **Compiler le projet** :
+    
+```bash
+mvn clean install
 
-3. Exécuter la classe principale :
+ 
+3. **Exécuter la classe principale** :
 
+```bash
  java -cp target/classes pres.PresentationV1
 
 # 📜 Auteur
