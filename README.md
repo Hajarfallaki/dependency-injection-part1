@@ -23,14 +23,11 @@ Java (JDK 11+)
 Maven (pour la gestion des dépendances)
 Spring Framework (pour l'injection de dépendances)
 
-# 🚀 Installation et exécution
- 1. Cloner le dépôt :
-
-
-
-git clone https://github.com/Hajarfallaki/dependency-injection-part1.git
-
-cd dependency-injection-part1
+1. **Cloner le dépôt** :
+   
+   ```bash
+   git clone https://github.com/Hajarfallaki/dependency-injection-part1.git
+   cd dependency-injection-part1
 
  2. Compiler le projet :
 
