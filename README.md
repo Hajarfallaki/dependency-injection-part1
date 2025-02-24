@@ -36,13 +36,16 @@ Spring Framework (pour l'injection de dépendances)
 mvn clean install
 
  
- 3.  **Execute la classe principale** :
+3. **Exécuter la classe principale** :
+
+Une fois la compilation terminée, vous pouvez exécuter la classe principale `pres.PresentationV1` en utilisant la commande suivante :
 
 ```bash
- java -cp target/classes pres.PresentationV1
+java -cp target/classes pres.PresentationV1
 
 
-# 📜 Auteur
+
+# 📜Auteur
 👩‍💻 Hajar Elfallaki-Idrissi
 
 📅 Année : 2025
