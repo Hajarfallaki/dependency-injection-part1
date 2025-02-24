@@ -36,10 +36,11 @@ Spring Framework (pour l'injection de dépendances)
 mvn clean install
 
  
-3. **Exécuter la classe principale** :
+ 3.  **Execute la classe principale** :
 
 ```bash
  java -cp target/classes pres.PresentationV1
+
 
 # 📜 Auteur
 👩‍💻 Hajar Elfallaki-Idrissi
